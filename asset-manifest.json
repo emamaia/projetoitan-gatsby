@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projeto-Itan/static/css/main.d5d22a7f.chunk.css",
+    "main.js": "/projeto-Itan/static/js/main.833d2361.chunk.js",
+    "main.js.map": "/projeto-Itan/static/js/main.833d2361.chunk.js.map",
+    "runtime-main.js": "/projeto-Itan/static/js/runtime-main.2257c15d.js",
+    "runtime-main.js.map": "/projeto-Itan/static/js/runtime-main.2257c15d.js.map",
+    "static/js/2.9e012704.chunk.js": "/projeto-Itan/static/js/2.9e012704.chunk.js",
+    "static/js/2.9e012704.chunk.js.map": "/projeto-Itan/static/js/2.9e012704.chunk.js.map",
+    "index.html": "/projeto-Itan/index.html",
+    "precache-manifest.7c545ab2c2e78535a2c224a2adff7e00.js": "/projeto-Itan/precache-manifest.7c545ab2c2e78535a2c224a2adff7e00.js",
+    "service-worker.js": "/projeto-Itan/service-worker.js",
+    "static/css/main.d5d22a7f.chunk.css.map": "/projeto-Itan/static/css/main.d5d22a7f.chunk.css.map",
+    "static/js/2.9e012704.chunk.js.LICENSE": "/projeto-Itan/static/js/2.9e012704.chunk.js.LICENSE",
+    "static/media/logo.png": "/projeto-Itan/static/media/logo.31d5efad.png",
+    "static/media/style.css": "/projeto-Itan/static/media/mapa1.66b8097f.png",
+    "static/media/principal.png": "/projeto-Itan/static/media/principal.3fcc53a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2257c15d.js",
+    "static/js/2.9e012704.chunk.js",
+    "static/css/main.d5d22a7f.chunk.css",
+    "static/js/main.833d2361.chunk.js"
+  ]
+}
