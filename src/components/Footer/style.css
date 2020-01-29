@@ -1,0 +1,23 @@
+.footer{
+    text-align: center;
+    background-color: #BA2D0B;
+    color: #ffffff;
+    font-size: 0.8rem;
+    padding: 5px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #73BA9B;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-left: 40px;
+}
+
+.footer-link:hover{
+    
+    color: #003E1F;
+
+}

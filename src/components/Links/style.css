@@ -1,0 +1,15 @@
+.link{
+    padding: 10px;
+    color:#003E1F;    
+    padding-bottom: 0.3rem;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #BA2D0B;
+    font-weight: 700;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+    
+    

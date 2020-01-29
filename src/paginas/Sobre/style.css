@@ -1,0 +1,37 @@
+.sobre-container{
+    background-image: url('../../assets/logo3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+    margin-top: 150px;
+}
+
+.link-container{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-width: medium;
+    border-color: #BA2D0B;
+    border-radius: 10px;
+    border-style: solid;
+    color:#003E1F;
+    text-align: center; 
+    padding: 20px;
+}
+
+.caixa-links{
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 720px) {
+    .link-container {
+        width: 70%;
+    }
+}
+
+@media (max-width: 440px) {
+    .link-container {
+        width: 90%;
+    }
+}

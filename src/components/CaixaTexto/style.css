@@ -1,0 +1,38 @@
+.caixa-container{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 25px;
+    border-width: medium;
+    border-color: #BA2D0B;
+    border-style: solid;
+    border-radius: 10px;
+    color:#003E1F;
+    text-align: justify; 
+}
+
+.caixa-texto{
+    width: 90%;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+.caixa-descricao{
+    text-shadow: 1px 1px rgb(217, 230, 216);
+}
+
+.caixa-span{
+    font-style: italic;
+}
+
+
+@media (max-width: 720px) {
+    .caixa-container {
+        width: 70%;
+    }
+}
+
+@media (max-width: 440px) {
+    .caixa-container {
+        width: 90%;
+    }
+}
